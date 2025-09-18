@@ -45,7 +45,7 @@ Os principais atributos de cada processo são:
  - Pedro Henrique Sampaio
  - Marina Albertim Lopes
  - Paulo Henrique Cabral
- - Paulo Victor Dantas
+ - Paulo Vitor Macedo
  - Cauã Charles
 
 
